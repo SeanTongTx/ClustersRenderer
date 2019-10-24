@@ -1,0 +1,10 @@
+{
+  "name": "com.seanlib.clustersrender",
+  "displayName": "SeanLib.ClustersRenderer",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Renderer"
+  ],
+  "category": "Renderer"
+}

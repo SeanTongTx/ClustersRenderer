@@ -1,0 +1,17 @@
+{
+    "name": "SeanLib.ClustersRenderer.Editor",
+    "references": [
+        "GUID:76aa88fa43b969c428cf4fcea4da8777",
+        "GUID:0c4e8f5b6f7b7c84ba74afdc72e09030"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
